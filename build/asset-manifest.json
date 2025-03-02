@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aqi-dashboard/static/css/main.e6c13ad2.css",
+    "main.js": "/aqi-dashboard/static/js/main.b8951b0b.js",
+    "index.html": "/aqi-dashboard/index.html",
+    "main.e6c13ad2.css.map": "/aqi-dashboard/static/css/main.e6c13ad2.css.map",
+    "main.b8951b0b.js.map": "/aqi-dashboard/static/js/main.b8951b0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b8951b0b.js"
+  ]
+}
